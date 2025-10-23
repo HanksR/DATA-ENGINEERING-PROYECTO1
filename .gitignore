@@ -1,0 +1,28 @@
+# Entorno virtual
+.venv/
+env/
+venv/
+
+# Archivos de sistema
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Archivos temporales de Jupyter y VSCode
+.ipynb_checkpoints/
+.vscode/
+
+# Archivos grandes o locales
+*.csv
+*.xlsx
+*.parquet
+*.zip
+
+# Archivos personales
+.DS_Store
+Thumbs.db
+
+# Datos de salida del proyecto
+IntegradorProject/
+dataset_final_modelo.csv

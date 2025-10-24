@@ -1,31 +1,30 @@
 ## 🗂 Estructura de carpetas
 
+```text
 DATA-ENGINEERING-PROYECTO1/
-├─ .venv/ # Entorno virtual de Python
-├─ AVANCE1/ # Primer avance: carga inicial y exploración
-│ ├─ ImagenesA1/
-│ ├─ analisis_avance1.ipynb
-│ └─ CodigoA1.sql
-├─ AVANCE2/ # Segundo avance: limpieza y validaciones SQL
-│ ├─ ImagenesA2/
-│ ├─ analisis_avance2.ipynb
-│ └─ CodigoA2.sql
-├─ AVANCE3/ # Tercer avance: integración y dataset final
-│ ├─ analisis_avance3.ipynb
-│ └─ Cargar_data.py
-├─ DATA/ # Archivos CSV base de cada tabla
-│ ├─ sales.csv
-│ ├─ products.csv
-│ ├─ employees.csv
-│ ├─ customers.csv
-│ ├─ cities.csv
-│ ├─ countries.csv
-│ └─ categories.csv
-├─ README.md # Este documento
-└─ requirements.txt # Librerías utilizadas
+├─ .venv/                  # Entorno virtual de Python
+├─ AVANCE1/                # Primer avance: carga inicial y exploración
+│  ├─ ImagenesA1/
+│  ├─ analisis_avance1.ipynb
+│  └─ CodigoA1.sql
+├─ AVANCE2/                # Segundo avance: limpieza y validaciones SQL
+│  ├─ ImagenesA2/
+│  ├─ analisis_avance2.ipynb
+│  └─ CodigoA2.sql
+├─ AVANCE3/                # Tercer avance: integración y dataset final
+│  ├─ analisis_avance3.ipynb
+│  └─ Cargar_data.py
+├─ DATA/                   # Archivos CSV base de cada tabla
+│  ├─ sales.csv
+│  ├─ products.csv
+│  ├─ employees.csv
+│  ├─ customers.csv
+│  ├─ cities.csv
+│  ├─ countries.csv
+│  └─ categories.csv
+├─ README.md               # Este documento
+└─ requirements.txt        # Librerías utilizadas
 
-
----
 
 ##  Flujo general del proyecto
 
